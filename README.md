@@ -1,2 +1,2 @@
 # sql.
-started project on sql
+My SQL project to create and analyze Sales Performance Report
